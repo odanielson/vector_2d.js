@@ -1,3 +1,4 @@
+// https://github.com/odanielson/vector_2d.js
 // Copyright 2013, odanielson@github.com
 // MIT-license
 
